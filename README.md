@@ -23,7 +23,6 @@
 * income: Faixa de renda (<=50K ou >50K).
 
 
-## Verificações:
 
 **Verificar os tipos de dados.**
   * O dataset tem 15 colunas, sendo 6 delas numéricas (int64) e 9 categóricas (object).
