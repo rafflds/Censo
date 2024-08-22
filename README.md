@@ -2,21 +2,20 @@
 
 **Fonte (adaptado):** https://www.kaggle.com/laotse/credit-risk-dataset
 
-<font size=7>Esboço
 
 **Exploração dos Dados:**
 
-Visualização das primeiras linhas do dataset.
-Verificação de tipos de dados.
-Identificação de valores ausentes.
-Estatísticas descritivas.
+* Visualização das primeiras linhas do dataset.
+* Verificação de tipos de dados.
+* Identificação de valores ausentes.
+* Estatísticas descritivas.
 
 
 **Pré-processamento dos Dados:**
 
-Tratamento de valores ausentes.
-Codificação de variáveis categóricas (se necessário).
-Normalização/Padronização de variáveis numéricas.
+* Tratamento de valores ausentes.
+* Codificação de variáveis categóricas (se necessário).
+* Normalização/Padronização de variáveis numéricas.
 
 
 **Divisão dos Dados:**
@@ -40,6 +39,7 @@ Treinamento de um ou mais modelos:
 **Análise das métricas de desempenho**
 * Discussão dos resultados.
 * Exploração dos dados
+
 
 
 **O conjunto de dados contém as seguintes colunas:**
