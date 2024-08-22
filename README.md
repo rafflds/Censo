@@ -62,7 +62,7 @@ Treinamento de um ou mais modelos:
 * Random Forest, etc.
 
 
-**Avaliação do melhor modelo (Random Forest) usando métricas apropriadas**
+**Avaliação do melhor modelo (Random Forest - 85%) usando métricas apropriadas**
 
 ### Classe <=50K (label: <=50K):
 
